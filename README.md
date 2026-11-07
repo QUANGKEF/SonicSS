@@ -1,2 +1,4 @@
 # SonicSS
-Sonicss
+SonicSS是一个开源的ServerSide项目，用于Roblox的服务器端，用于感染和在游戏中执行你的任意Lua代码，具有动态白名单，感染结构和执行器Gui
+#RULES
+使用本项目必须标注本项目作者和项目链接包括使用本项目的资产及代码
